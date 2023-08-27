@@ -1,7 +1,8 @@
-# digital-watch ⌚
+# TicTech ⌚📱
 
   ## About the project📜
-Also exploring the frontend world, here I made a digital clock that shows the current time through the 'Date' class.
+Also exploring the frontend world, this project depicts a Digital Clock made in 
+JavaScript, HTML5 and CSS3 that displays the current hours, minutes and seconds through the 'Date' class.
 
 ## Technologies used 💻⚙️ 
 - JavaScript
