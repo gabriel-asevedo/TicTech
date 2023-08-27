@@ -13,14 +13,14 @@ JavaScript, HTML5 and CSS3 that displays the current hours, minutes and seconds 
 ## Project example
 
 <p align = "center"> 
-  <img alt = "Clock image" src = "assets/digitalwatch1_800x400.png" />
+  <img alt = "Clock image" src = "TicTech/assets/digitalwatch1_800x400.png" />
 </p>
 
  ```bash
 I confess.. it's pretty cool to be playing with the CSS
 ```
 <p align = "center"> 
-  <img alt = "Clock image" src = "assets/digitalwatch2_800x400.png" />
+  <img alt = "Clock image" src = "TicTech/assets/digitalwatch2_800x400.png" />
 </p>
 
 ## Use the project yourself
