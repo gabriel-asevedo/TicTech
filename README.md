@@ -17,7 +17,6 @@ JavaScript, HTML5 and CSS3 that displays the current hours, minutes and seconds 
 </p>
 
  ```bash
-I confess.. it's pretty cool to be playing with the CSS
 ```
 <p align = "center"> 
   <img alt = "Clock image" src = "TicTech/assets/digitalwatch2_800x400.png" />
